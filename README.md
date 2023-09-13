@@ -18,7 +18,7 @@ https://dbsk-desafio-1-dnc.netlify.app/
 1. Abra o site no seguinte link:
 
 ```
-https://brenodobroski.github.io/Wallet-App/
+https://dbsk-desafio-1-dnc.netlify.app/
 ```
 2. Abra a docs para ver a integração
 
