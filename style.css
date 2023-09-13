@@ -1,0 +1,132 @@
+* {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+#s-hero {
+  background-color: #303030;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  font-weight: 600;
+  margin-left: 62px;
+  padding-top: 206px;
+}
+
+#paragraph-hero {
+  color: white;
+  margin-left: 62px;
+  padding-bottom: 149px;
+  margin-top: 20px;
+}
+
+#s-informations {
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+span {
+  font-size: 40px;
+  color: black;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 99px;
+  margin-top: 96px;
+  padding-bottom: 67px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 82px;
+  margin-bottom: 92px;
+}
+
+#text-history {
+  margin-left: 77px;
+}
+
+#title-history {
+  font-size: 40px;
+  color: black;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+#paragraph-history {
+  font-size: 24px;
+  font-weight: 300;
+  color: black;
+}
+
+#s-form {
+  background-color: #303030;
+}
+
+#title-form {
+  font-size: 32px;
+  font-weight: 700;
+  color: white;
+  padding-top: 87px;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 508px;
+  margin: 0 auto;
+}
+
+input {
+  width: 508px;
+  height: 72px;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 24px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.3);
+  padding: 19px 30px 23px 30px;
+  margin-bottom: 62px;
+}
+
+button {
+  width: 286px;
+  height: 74px;
+  border-radius: 10px;
+  background-color: #c07212;
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  border: none;
+  margin-left: 110px;
+  margin-bottom: 87px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+button:hover {
+  background-color: #e2993f;
+  transform: translateY(-3px);
+}
