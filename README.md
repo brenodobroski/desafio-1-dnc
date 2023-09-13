@@ -6,7 +6,7 @@ Esse é o desafio 1 da Escola DNC, feito em HTML e CSS, com integração na docs
 
 ## Live Link
 
-https://www.dbsk-desafio-1-dnc.netlify.app
+https://dbsk-desafio-1-dnc.netlify.app/
 
 ## Tecnologias Usadas
 
